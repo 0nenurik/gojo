@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+}
+h1{
+    padding: 200px;
+    margin: 0px;
+}
+.go{
+    color: rgb(37, 48, 93);
+    text-shadow: 1px 5px 20 px rgb(255, 255, 255);
+
+}
+.jo{
+    color:rgb(178, 200, 218);
+    text-shadow: 1px 5px 20 px black;
+}
+header{
+height: 900px;
+background-color:rgb(104, 164, 197);
+text-align:center;
+font-size: larger;
+background-image: url(https://c.wallhere.com/photos/78/4d/Jujutsu_Kaisen_Satoru_Gojo_anime_Anime_screenshot_anime_boys_sunglasses_looking_at_viewer_hands_in_pockets-2260468.jpg!d);
+background-size: cover;
+}
+main{
+    height: 100%;
+    text-align: center;
+    background-color: rgb(222, 237, 243);
+    color: rgb(39, 81, 155);
+    font-size: 30px;
+    padding: 10px;
+    display: flex;
+}
+.container{
+    height: 1500px;
+}
+.left{
+    width: 50%;
+    font-size: 20px;
+    float: left;
+    text-align: justify;
+}
+.left1{
+    height: 600px;
+    width: 100%;
+    float: top;
+
+}
+.left2{
+    height: 600px;
+    width: 100%;
+    float: bottom;
+    padding-top:100px;
+}
+.right{
+    width: 50%;
+    float: right;
+    text-align: center;
+  
+}
+footer{
+    height: 1000px;
+    
+    text-align: center;
+    font-size: 30px;
+    color: rgb(48, 72, 112);
+    background-image: url(https://a-static.besthdwallpaper.com/suguru-geto-satoru-gojo-jujutsu-kaisen-wallpaper-2560x1024-86239_99.jpg);
+}
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
